@@ -1,0 +1,10 @@
+.idea/*.*
+.idea/*
+./*.*
+./
+target/*.*
+target/*
+/target/*.*
+/target/*
+/src/test/resources/config/application.properties
+*.iml
